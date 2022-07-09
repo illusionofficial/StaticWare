@@ -1,4 +1,4 @@
-getgenv().toggleui = Enum.KeyCode.RightControl
+
 repeat wait() until game:IsLoaded()
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
